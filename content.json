@@ -1,0 +1,50 @@
+{
+ "address": "1PgyTnnACGd1XRdpfiDihgKwYRRnzgz2zh",
+ "address_index": 21770330,
+ "clone_root": "",
+ "cloneable": true,
+ "cloned_from": "1JeHa67QEvrrFpsSow82fLypw8LoRcmCXk",
+ "description": "Money Network - U3 - User hub - runner jro",
+ "favicon": "favicon.ico",
+ "files": {
+  "data-default/users/content-default.json": {
+   "sha512": "3bbc8c28ae8d50c7c04409edb47153e3d02ad470ed14fde839c8e8dd8dbe1ff4",
+   "size": 741
+  },
+  "index.html": {
+   "sha512": "f60e8c80872ec8998aaa4b1617a552f80647a069b467e0f1b0f0a625bdb432d5",
+   "size": 1143
+  }
+ },
+ "ignore": "(.idea|.git|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "MoneyNetwork",
+ "modified": 1495638452,
+ "postmessage_nonce_security": true,
+ "settings": {
+  "default_hubs": {
+   "1922ZMkwZdFjKbSAdFR1zA5YBHMsZC51uc": {
+    "description": "Money Network - U2 - User hub - runner jro",
+    "title": "U2 - User hub"
+   }
+  }
+ },
+ "sign": [
+  92928149525256677905919603951041472998207721032101375217261357865661790433526,
+  49706156260158044500548776502195322691806952265169377094453404679497677909971
+ ],
+ "signers_sign": "HLF3bAo7Z3gveX8NnZqrBWUGKmZcVbvBFEroJOkbgGH0Z3BMEUd4BLJk3mGamPEkz0CnYCj/p5vRICj1HJCNlvo=",
+ "signs": {
+  "1PgyTnnACGd1XRdpfiDihgKwYRRnzgz2zh": "GwcUabNbWgDcUtvdwJeQLa7tI0NUEOKbbVVUgtDGpY6GdyLg0QxWLOMreg68SqM+vSjuTr7iHs54X57IxxuQD1k="
+ },
+ "signs_required": 1,
+ "title": "U3 - User hub",
+ "viewport": "width=device-width, initial-scale=1.0",
+ "zeronet_version": "0.5.5"
+}
